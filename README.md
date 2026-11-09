@@ -9,5 +9,5 @@ Building towards ML/quant. Currently working on SPY realized-volatility forecast
 Outside of work: WSJ, cooking, running, volleyball.
 
 **Currently:**
-- 📈 [volatility-forecasting](https://github.com/duanebollig/volatility-forecasting): HAR-RV vs. LightGBM vol forecasting done from scratch. Mainly learning good coding practices, how to set deadlines, and how to ship good code by hand before moving onto AI-driven production.
+- 📈 [volatility-forecasting](https://github.com/duanebollig/volatility-forecasting): HAR-RV vs. LightGBM vol forecasting done from scratch. Mainly learning good coding practices and how to scope + ship work independently before layering in AI.
 - 🗓️ [university-bot](https://github.com/duanebollig/university-bot): syncs Canvas/Moodle/PrairieLearn deadlines to a Google Calendar.
