@@ -1,5 +1,3 @@
-# Duane Bollig
-
 Dominican Republic → UIUC
 
 Statistics & CS @ UIUC (Math minor) · Incoming @ Synchrony, Spring-Summer 2027.
