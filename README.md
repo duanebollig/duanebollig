@@ -1,10 +1,10 @@
 # Duane Bollig
 
-Dominican Republic -> UIUC
+Dominican Republic → UIUC
 
 Statistics & CS @ UIUC (Math minor) · Incoming @ Synchrony, Spring-Summer 2027.
 
-Building towards ML/quant. Currently working on SPY realized-volatility forecasting (naive -> HAR-RV -> LightGBM) and learning by shipping.
+Building towards ML/quant. Currently working on SPY realized-volatility forecasting (naive → HAR-RV → LightGBM) and learning by shipping.
 
 Outside of work: WSJ, cooking, running, volleyball.
 
