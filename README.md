@@ -1,16 +1,13 @@
-## Hi there 👋
+# Duane Bollig
 
-<!--
-**duanebollig/duanebollig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Dominican Republic -> UIUC
 
-Here are some ideas to get you started:
+Statistics & CS @ UIUC (Math minor) · Incoming @ Synchrony, Spring-Summer 2027.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building towards ML/quant. Currently working on SPY realized-volatility forecasting (naive -> HAR-RV -> LightGBM) and learning by shipping.
+
+Outside of work: WSJ, cooking, running, volleyball.
+
+**Currently:**
+- 📈 [volatility-forecasting](https://github.com/duanebollig/volatility-forecasting): HAR-RV vs. LightGBM vol forecasting done from scratch. Mainly learning good coding practices, how to set deadlines, and how to ship good code by hand before moving onto AI-driven production.
+- 🗓️ [university-bot](https://github.com/duanebollig/university-bot): syncs Canvas/Moodle/PrairieLearn deadlines to a Google Calendar.
